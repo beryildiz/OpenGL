@@ -1,0 +1,7 @@
+# ninja log v5
+1	803	6997262499234929	CMakeFiles/LearnOpenGl.dir/main.cpp.obj	35699a203e61c7c5
+1	124	6997275695365619	build.ninja	c87ebdc2e7e7984f
+7	753	6997276095484055	CMakeFiles/glad.dir/libraries/glad/src/glad.c.obj	fb91bd42f3c4b476
+753	825	6997276095984032	glad.lib	e8345a06c28763b7
+2	1093	6997276098884020	CMakeFiles/LearnOpenGl.dir/main.cpp.obj	af9d3c740dda21e3
+1093	3579	6997276122918783	LearnOpenGl.exe	7cc896578dae9d2d

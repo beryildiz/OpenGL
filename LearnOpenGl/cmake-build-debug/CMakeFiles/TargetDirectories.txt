@@ -1,0 +1,4 @@
+D:/Repos/OpenGL/LearnOpenGl/cmake-build-debug/CMakeFiles/LearnOpenGl.dir
+D:/Repos/OpenGL/LearnOpenGl/cmake-build-debug/CMakeFiles/glad.dir
+D:/Repos/OpenGL/LearnOpenGl/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/OpenGL/LearnOpenGl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
